@@ -1,0 +1,40 @@
+{
+    "students":[
+        
+        {
+            "id" : 1,
+            "name" : "ibrahim",
+            "phoneNumber" : "01172523353 "
+        },
+        {
+            "id" : 2,
+            "name" : "ahmed",
+            "phoneNumber" : "01155463338 "
+        },
+        {
+            "id" : 3,
+            "name" : "samy",
+            "phoneNumber" : "01122773334 "
+        },
+        {
+            "id" : 4,
+            "name" : "khaled",
+            "phoneNumber" : "01182523763 "
+        },
+        {
+            "id" : 5,
+            "name" : "ramy",
+            "phoneNumber" : "01222223953 "
+        },
+        {
+            "id" : 7,
+            "name" : "saleem",
+            "phoneNumber" : "01522226533 "
+        },
+        {
+            "id" : 8,
+            "name" : "dina",
+            "phoneNumber" : "01022223301 "
+        }
+    ]
+}
